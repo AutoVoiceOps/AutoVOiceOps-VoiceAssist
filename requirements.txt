@@ -1,0 +1,8 @@
+streamlit
+python-dotenv
+azure-cognitiveservices-speech
+numpy==1.26.4
+pyaudio
+wave
+librosa==0.10.2.post1
+psycopg2-binary
